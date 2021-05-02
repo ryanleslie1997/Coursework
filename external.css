@@ -1,0 +1,8 @@
+body {background-color:#707070}
+h1 {color:green}
+p {color:teal}
+div {
+  width: 1000px;
+  margin: auto;
+  border: 1px solid #707070;
+}
