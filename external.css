@@ -1,8 +1,9 @@
 body {background-color:#707070}
-h1 {color:green}
-p {color:teal}
+h1 {color:Black}
+p {color:Black}
 div {
   width: 1000px;
   margin: auto;
   border: 1px solid #707070;
+  color: Black
 }
